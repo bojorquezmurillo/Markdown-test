@@ -46,4 +46,5 @@ print("helloword")
 \
 ![visual studio code](vsc.png)
 
-- [X] Task
+- [X] Task 1
+- [ ] Task 2
